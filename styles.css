@@ -1,0 +1,70 @@
+/* This is the CSS for the whole website. */
+
+.title{
+font-family: "Palatino Linotype";
+font-size: 50px;
+text-align: center;
+border-style: outset ;
+
+}
+.head{
+font-family: "Palatino Linotype";
+font-size: 40px;
+border-top: 1px solid black;
+text-align: center;
+padding: 10px; 
+
+}
+.loginform{
+	font-family: "Times New Roman";
+	font-size: 20px;
+text-align: center;
+padding: 10px;
+	
+}
+.writing{
+  border: 1px;
+  font-size: 19px;
+  border-style: inset ;
+  text-align: center;
+  padding: 125px;
+  color:solid black;
+  font-style:bold;
+  font-family: "Palatino Linotype";
+  word-wrap: normal;
+  line-height: 1.6;
+}
+.login{
+  border: 1px;
+  font-size: 19px;
+  line-height: 1.6;
+  text-align: left;
+  padding: 125px;
+  color:solid black;
+  font-style:bold;
+  font-family: "Arial";
+  word-wrap: break-word;
+   display: block;
+   margin: 5px 0;
+}
+button {
+   display: block;
+   margin: 5px 0;
+}
+body{
+	background-color: #F0FFFF;
+	
+}
+.welca{
+	font-family: "Palatino Linotype";
+	font-size: 20px;
+text-align: center;
+padding: 10px;
+}
+.seatTotalBox{
+font-family: "Palatino Linotype";
+font-size: 19px;
+text-align: left;
+padding: 10px;
+border: 1px solid black;
+}
